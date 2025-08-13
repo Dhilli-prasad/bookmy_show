@@ -24,8 +24,3 @@ The project is divided into sections, each handling a specific aspect of the boo
 Technologies Used
 - Python: The primary programming language used for this project.
 
-How to Run
-1. Clone the repository to your local machine.
-2. Run the Python script to start the booking system.
-3. Follow the prompts to select a movie, showtime, and seats.
-4. View your booking history  as needed 
