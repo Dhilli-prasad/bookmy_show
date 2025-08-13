@@ -1,6 +1,6 @@
 [🔗 BookMyShow Repository](https://github.com/Dhilli-prasad/bookmy_show)
-
-Movie Ticket Booking System
+Welcome to my BookMyShow project repository click 🎯 the link above to view the code and details 
+Movie Ticket Booking System 
 A Python-based movie ticket booking system that allows users to browse available movies, select showtimes, choose seats, and view booking history. This project demonstrates a simple yet functional ticketing system with user-friendly interactions.
 
 Features
